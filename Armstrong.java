@@ -20,7 +20,7 @@ public class Armstrong
         }
         if(num == sum)
         {
-            System.out.println("It's an Armstrong Number");
+            System.out.println("It's an Armstrong Number, chevu is sexy af");
         }
         else
         {
